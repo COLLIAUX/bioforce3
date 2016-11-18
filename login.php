@@ -1,5 +1,5 @@
 <?php
-$titrePage = "BioForce 3 - Authentification";
+$titrePage = "BioForce 4 - Authentification";
 // entête et menu
 include "includes/entete.php";
 ?>
