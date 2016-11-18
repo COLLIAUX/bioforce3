@@ -1,5 +1,5 @@
 <?php
-$titrePage = "BioForce3 - Nous contacter";
+$titrePage = "BioForce3 - nous contacter";
 include "includes/entete.php";
 ?>
 <h1>Nous contacter</h1>
