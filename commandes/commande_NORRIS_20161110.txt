@@ -1,0 +1,1 @@
+a:3:{i:0;a:4:{s:9:"idProduit";s:1:"1";s:10:"qteProduit";s:1:"2";s:10:"libProduit";s:15:"Pommes de terre";s:11:"prixProduit";s:5:"10.50";}i:1;a:4:{s:9:"idProduit";s:1:"5";s:10:"qteProduit";s:1:"3";s:10:"libProduit";s:8:"poireaux";s:11:"prixProduit";s:4:"3.30";}i:2;a:4:{s:9:"idProduit";s:1:"9";s:10:"qteProduit";s:1:"1";s:10:"libProduit";s:6:"poires";s:11:"prixProduit";s:4:"3.00";}}
