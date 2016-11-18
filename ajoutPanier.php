@@ -5,7 +5,8 @@ include "includes/connexion.php";
 
 /*echo '<pre>';
 print_r($_POST);
-echo '</pre>';*/
+echo '</pre>';
+*/
 
 /*
 $tableau = array(0 => 'toto', 'truc'=>'muche');
